@@ -2,7 +2,7 @@
 A GTK 4 desktop application written in C++ 17 that serves as scaffold for desktop
 software designed for the Gnome environment.
 
-![scaffoild](https://github.com/francescogarbin/gtk-scaffold-cpp/assets/571018/a5d3e904-a237-44f3-bf78-e72f9669de3f)
+![scaffoild](https://github.com/francescogarbin/gtk-scaffold-cpp/assets/571018/a76c1968-a446-404a-b097-81c9e28f0959)
 
 The app provides all the UI widgets of a typical desktop application such as:
 - three panes layout
